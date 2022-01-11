@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Ejercicios de Academia Geek
+código de los ejercicios:
 
-You can use the [editor on GitHub](https://github.com/dann95moz/academiageek/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+https://github.com/academia-geek/aprendices-geek-entrenamiento-dann95moz.git
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
